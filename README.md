@@ -41,7 +41,7 @@ The flow was excellent. We explained:
 3. **Whom we are targeting:** The targeted customers, audience, and employees.
 4. **How would we earn money:** Our business model.
 
-### The Questions We Faced
+### The Questions We Faced From Judge
 1. How secure is the business?
 2. Are we going to train those Journey Journals?
 3. Which platform are we launching it on?
